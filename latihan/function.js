@@ -5,7 +5,6 @@ const temperature = 25;
 function convertCelsiusToFahrenheit(temperature) {
     // buat sebuah operasi yang mengconvert dari celsius ke fahrenheit pada function body
     const fahrenheit = 9 / 5 * temperature + 32;
-
     //tampilkan hasil konversi
     console.log('hasil konversi :', fahrenheit)
 }
